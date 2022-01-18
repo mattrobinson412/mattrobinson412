@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mattrobinson412 ... otherwise known as Matt Allen Robinson.
+- 👋 Hi, I’m @mattrobinson412 ... otherwise known as Matt Allen Robinson. I'm currently a Solutions Engineer at People Data Labs! Pleasure to meet ya.
 - 👀 I’m interested in full-stack engineering, pastoral ministry, music, and all things involving the beach.
 - 🌱 My tech stack includes SQL, Python, SQLAlchemy, Flask, Node.js, vanilla JS, React, and React Native.
 - 💞️ I’m looking to collaborate on any and all projects - my goal is to continue to learn and master the art of coding!
